@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote repository is an online repository that is seen by several collaborators, has its own history and can be pulled
